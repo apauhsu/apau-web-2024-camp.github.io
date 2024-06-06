@@ -7,10 +7,10 @@ body {
   font-style: normal;
   line-height: 1.6;
   color: #333;
+  overflow-x:hidden;
 }
 
 .container {
-  width: 100%;
   margin: auto;
   overflow: hidden;
 }
